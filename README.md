@@ -10,6 +10,7 @@ This Repository is Linked to Code and Results for the paper published in "MILLan
 
 # Study Design
 <img src='images/Figure-flow-diagram.png'>
+
 Figure-1 : **Do different weight initialization matter?** The study is designed from the perspective of an AI user who can choose between multiple pretrained models (domain or non-domain, supervised or self-supervised) options for a given task. The best pretrained model is the one that has the highest accuracy on the task and is least affected by distribution shifts. This study provides a framework to choose amongst pretrained models and select the most advantageous for the task.
 
 ```
