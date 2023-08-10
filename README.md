@@ -9,8 +9,8 @@ This Repository is Linked to Code and Results for the paper published in "MILLan
 ## Recommended Citation
 
 # Study Design
-![](images/Figure-flow-diagram.png)
-Do different weight initialization matter? The study is designed from the perspective of an AI user who can choose between multiple pretrained model options for a given task. The best pretrained model is the one that is least effected domain shift. This study provides a framework to choose amongst pretrained models and select the most advantageous for the task.
+<img src='styles/candy.jpg' height='225px'>
+*Figure 1:- Do different weight initialization matter? The study is designed from the perspective of an AI user who can choose between multiple pretrained model options for a given task. The best pretrained model is the one that is least effected domain shift. This study provides a framework to choose amongst pretrained models and select the most advantageous for the task.*
 
 
 
